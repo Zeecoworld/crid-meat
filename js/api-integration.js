@@ -14,12 +14,7 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from 'https://www.gstati
 // ============================================
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA6pLJdRb4V5LUUrHdwSKRne-ZgXJoqqY8",
-  authDomain: "cmuksite.firebaseapp.com",
-  projectId: "cmuksite",
-  storageBucket: "cmuksite.firebasestorage.app",
-  messagingSenderId: "311601861870",
-  appId: "1:311601861870:web:4d3c04c418a789961dcfff"
+ 
 };
 
 // Initialize Firebase
