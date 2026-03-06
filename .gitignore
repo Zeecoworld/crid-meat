@@ -1,0 +1,17 @@
+﻿node_modules
+.env
+.DS_Store
+firebase-debug.log
+deploy.zip
+dist/
+DEPLOYMENT_GUIDE_NAMECHEAP.md
+scripts/build_deploy_zip.ps1
+**/node_modules
+**/.env
+backend/.env
+functions/.env
+**/.firebase/
+**/functions/node_modules/
+**/functions/lib/
+**/functions/firebase-debug.log
+**/functions/.runtimeconfig.json
